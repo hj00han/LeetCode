@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/hj00han/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/hj00han/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/hj00han/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/hj00han/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/hj00han/LeetCode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hj00han/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -71,8 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hj00han/LeetCode/tree/master/0036-valid-sudoku) |
+| [0383-ransom-note](https://github.com/hj00han/LeetCode/tree/master/0383-ransom-note) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hj00han/LeetCode/tree/master/0036-valid-sudoku) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/hj00han/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
